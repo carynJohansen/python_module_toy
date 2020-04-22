@@ -1,5 +1,3 @@
-import pandas as pd
-
 def scammerScore(userID):
     """Calculates the probability that the specified user is a scammer."""
     res = getMoreStuff(userID)
