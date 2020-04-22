@@ -1,7 +1,7 @@
 def scammerScore(userID):
-    """Calculates the probability that the specified user is a scammer."""
-    res = getMoreStuff(userID)
-    return res
+	"""Calculates the probability that the specified user is a scammer."""
+	res = getMoreStuff(userID)
+	return res
 
 
 
